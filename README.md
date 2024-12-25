@@ -1,4 +1,4 @@
-Basic Calculator
+BASIC CALCULATOR:
 This is a simple Java calculator application that allows users to perform basic arithmetic operations (+,-,*,/).
 
 FEATURES:
